@@ -11,5 +11,5 @@ while true do --um evento que repete cada frame
     WorldConfigurationPlus() --chama o evento
 end --fim do evento
 if EventoChamado == true then --se a variavel for igual a ... então...
-    print("evento foi chamdo!")
+    print("evento foi chamdo!") --escrever no console oq esta escrito
 end --fim do evento
