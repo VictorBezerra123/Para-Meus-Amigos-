@@ -1,1 +1,1 @@
-somente para MEUS amigos （￣︶￣）↗
+somente para MEUS amigos （￣︶￣)
