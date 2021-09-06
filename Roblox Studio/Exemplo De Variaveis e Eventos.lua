@@ -4,7 +4,7 @@ EventoChamado = false --criando uma variavel booleana
 function WorldConfigurationPlus() --criando evento
     Jogo.Gravity = 100 --troquei a gravidade do Workspace para dez
     Jogo.exemploDeParte.Transparency = 0.5 --troquei a transparencia da parte para 0.5
-    EventoChamdo = true --deixando a variavel booleana verdadeira
+    EventoChamado = true --deixando a variavel booleana verdadeira
 end --fim do evento
 while true do --um evento que repete cada frame
     wait(Tempo) --espera Pelo Tempo
